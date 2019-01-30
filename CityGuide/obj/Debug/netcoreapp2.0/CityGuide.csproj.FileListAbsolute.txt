@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\CityGuide\CityGuide\bin\Debug\netcoreapp2.0\CityGuide.deps.json
+C:\Users\PC\source\repos\CityGuide\CityGuide\bin\Debug\netcoreapp2.0\CityGuide.runtimeconfig.json
+C:\Users\PC\source\repos\CityGuide\CityGuide\bin\Debug\netcoreapp2.0\CityGuide.runtimeconfig.dev.json
+C:\Users\PC\source\repos\CityGuide\CityGuide\bin\Debug\netcoreapp2.0\CityGuide.dll
+C:\Users\PC\source\repos\CityGuide\CityGuide\bin\Debug\netcoreapp2.0\CityGuide.pdb
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.AssemblyInfo.cs
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.dll
+C:\Users\PC\source\repos\CityGuide\CityGuide\obj\Debug\netcoreapp2.0\CityGuide.pdb
